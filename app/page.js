@@ -1,7 +1,7 @@
 'use client';
 
 export default function Home() {
-  const mobileNumber = '7002028029';
+  const mobileNumber = 'MECHANT_PHONE_NO';
   const amount = 100;
   const handleClick = async (e) => {
     e.preventDefault();
