@@ -13,8 +13,8 @@ This project demonstrates the integration of the PhonePe payment gateway using N
 
 1. Clone the repository:
     ```bash
-    git clone url
-    cd your-repo-name
+    git clone git@github.com:NihalP01/phone-pe-PG-demo.git
+    cd phone-pe-PG-demo
     ```
 
 2. Install dependencies:
